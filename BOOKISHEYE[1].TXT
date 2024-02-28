@@ -1,0 +1,93 @@
+Q.
+  1 - Identify the issue of poor quality standard books and its impact upon the students and the medical system.
+  2 - Assessment scale serves the purpose of:
+	i - Selection of quality textbooks by teachers for their students.
+       ii - Serving as a reference for textbook writers.
+       iii- Providing criteria to recommend for inclusion in the list of
+	    recommended apex/regulatory bodies.
+
+ *Assessment process requires :
+	1 - A review of the books by reviewers( located across the country, subjectwise; 3 per book)
+	2 - Summarizing reviewers' remarks.
+	3 - Decision by committee.
+
+ **An application(or web based portal) for:
+	- Reviewing the book online by people all around the world.
+	- Summarize the review data in a faster mode.
+
+(Solution)
+
+Core Features:
+-------------
+
+1 - Reviewers' registration and authentication.
+2 - Upload and manage textbooks.
+3 - Assess book by subjectwise reviewers.
+4 - Online review submission by authenticated reviewers.
+5 - Summarize reviews and committee decision.
+6 - Generate report and recommendation.
+7 - Implement secure online reviews.
+
+
+The circulation of such poor quality books will eventually lead to the hands of students,
+ getting hold of such substandard books; which upon reading and following them will create a
+ poor quality standard among the students, 
+which will ultimately lead to a downgrade in the quality of medical practitioners in the future.
+ And this will impact on the medical sector in a negative way.
+
+
+
+
+
+
+
+
+
+
+
+
+BOOKISHEYE
+
+
+
+
+BOOKISHEYE can revolutionized the way healthcare professionals, students, and enthusiasts
+ access and engage with medical literature. 
+
+Instant Access to Knowledge:Our medical books provide immediate access to a vast repository of medical
+knowledge, textbooks, research papers, and reference materials. This accessibility is invaluable for medical
+students, practitioners, and researchers looking for up-to-date information.
+
+Cost-Efficiency: Cost of medical books are too high now many cannot afford a medical reference book.
+.Our application is available for free or at a fraction of the cost of printed
+ medical textbooks. This affordability makes it easier for individuals to access essential medical resources without breaking the bank.
+
+Portability and Convenience: Bookisheye can be accessed on various digital devices, including smartphones,
+ tablets, and laptops. This portability allows healthcare professionals to carry their medical references wherever
+ they go, making it easy to consult resources in clinical settings or during study sessions.
+
+Searchability: Bookisheye,s feature robust search functions, enabling users to quickly find specific
+ topics, medical conditions, or references within the text. This efficient search capability streamlines research and study efforts.
+
+Updates and Revisions: Online medical books can be updated and revised more easily than printed versions. 
+This ensures that healthcare professionals have access to the latest medical research, treatment guidelines,
+and diagnostic information.
+
+Core Features:Main features of our site is to ensure the review system that has a chain of authinticated commitee made already where they
+can review and shares their ideas and ratings for individual books so that students can know which is the best reference for their practices.
+Collaboration and Sharing: Online medical books can be shared with colleagues or fellow students with ease. 
+This fosters collaboration and the exchange of medical knowledge and expertise.
+ 
+Security and Privacy: Our platforms often prioritize user data security and privacy, 
+ensuring that sensitive medical information remains protected.
+
+
+
+In conclusion, online medical books have become an indispensable resource in the healthcare field, offering a
+ wealth of benefits that include accessibility, cost-efficiency, portability, and the ability to stay up-to-date
+ with the latest medical advancements. Whether you're a medical student, a practicing healthcare professional, 
+or simply interested in medical topics, online medical books are a valuable tool for learning, reference, and research in the ever-evolving field of medicine.
+
+
+
+
